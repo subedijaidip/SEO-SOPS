@@ -1,7 +1,7 @@
 import type { Metadata, Site, Socials } from "@types";
 
 export const SITE: Site = {
-  TITLE: "SEO Standard Operating Procedures (SOPs)",
+  TITLE: "SEO SOPs",
   DESCRIPTION: "SEO SOPs is a website operate by Jaidip Subedi to provide valuable resources in the field of SEO.",
   EMAIL: "subedijaidip@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 5,
